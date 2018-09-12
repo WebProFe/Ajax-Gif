@@ -1,0 +1,2 @@
+# Giphy-Api
+This website uses the GIPHY API to populate the site with gifs. Specifically, it uses the jQuery AJAX method to perform AJAX GET requests to the query URL to get data from the GIPHY API. To perform an AJAX call, a query URL needs to be constructed. The query URL consists of the host, path, search term, the maximum number of gifs to return, and an API key. After the query URL is constructed, the URL is used to perform the request. When the request is complete, the site uses Javascript and jQuery to add static gif images to the HTML. 

@@ -1,0 +1,16 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+#movies-view{
+  display: inline-block;
+  
+}
+
+.container{
+  height: 400px;
+  width: auto;
+}
